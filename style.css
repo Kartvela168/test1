@@ -1,0 +1,243 @@
+body {
+    width: auto;
+    height: auto;
+    min-height: 100vh;
+    max-width: 400px;
+    background-color: #EFEEE5;
+    margin: 0 auto;
+}
+
+
+.bp1 {
+    position: absolute;
+    width: 315px;
+    height: 177px;
+    left: 95px;
+    top: 261px;
+
+
+}
+
+.bp2 {
+    position: absolute;
+    width: 320px;
+    height: 177px;
+    left: 410px;
+    top: 0px;
+}
+
+.bp3 {
+    position: absolute;
+    width: 143px;
+    height: 81px;
+    left: 907px;
+    top: 162px;
+}
+
+.bp4 {
+    position: absolute;
+    width: 320px;
+    height: 177px;
+    left: 730px;
+    top: 242px;
+}
+
+.bp5 {
+    position: absolute;
+    width: 320px;
+    height: 200px;
+    left: 1180px;
+    top: 182px;
+}
+
+.bp6 {
+    position: absolute;
+    width: 320px;
+    height: 170px;
+    left: -153px;
+    top: 456px;
+}
+
+.bp7 {
+    position: absolute;
+    width: 143px;
+    height: 92px;
+    left: 270px;
+    top: 456px;
+}
+
+.bp8 {
+    position: absolute;
+    width: 320px;
+    height: 177px;
+    left: 410px;
+    top: 456px;
+}
+
+.bp9 {
+    position: absolute;
+    width: 143px;
+    height: 81px;
+    left: 907px;
+    top: 457px;
+}
+
+.bp10 {
+    position: absolute;
+    width: 315px;
+    height: 180px;
+    left: 1050px;
+    top: 457px;
+}
+
+.bp11 {
+    position: absolute;
+    width: 143px;
+    height: 81px;
+    left: 1365px;
+    top: 607px;
+}
+
+.bp12 {
+    position: absolute;
+    width: 320px;
+    height: 177px;
+    left: 730px;
+    top: 547px;
+}
+
+.bl1 {
+    position: absolute;
+    width: 315px;
+    height: 177px;
+    left: 95px;
+    top: 261px;
+
+}
+
+.bl2 {
+    position: absolute;
+    width: 320px;
+    height: 177px;
+    left: 410px;
+    top: 0px;
+}
+
+.bl3 {
+    position: absolute;
+    width: 143px;
+    height: 81px;
+    left: 907px;
+    top: 162px;
+}
+
+.bl4 {
+    position: absolute;
+    width: 320px;
+    height: 177px;
+    left: 730px;
+    top: 242px;
+}
+
+.bl5 {
+    position: absolute;
+    width: 320px;
+    height: 200px;
+    left: 1180px;
+    top: 182px;
+}
+
+.bl6 {
+    position: absolute;
+    width: 320px;
+    height: 170px;
+    left: -153px;
+    top: 456px;
+}
+
+.bl7 {
+    position: absolute;
+    width: 143px;
+    height: 92px;
+    left: 270px;
+    top: 456px;
+}
+
+.bl8 {
+    position: absolute;
+    width: 320px;
+    height: 177px;
+    left: 410px;
+    top: 456px;
+}
+
+.bl9 {
+    position: absolute;
+    width: 143px;
+    height: 81px;
+    left: 907px;
+    top: 457px;
+}
+
+.bl10 {
+    position: absolute;
+    width: 315px;
+    height: 180px;
+    left: 1050px;
+    top: 457px;
+}
+
+.bl11 {
+    position: absolute;
+    width: 143px;
+    height: 81px;
+    left: 1365px;
+    top: 607px;
+}
+
+.bl12 {
+    position: absolute;
+    width: 320px;
+    height: 177px;
+    left: 730px;
+    top: 547px;
+}
+
+.signupbtn {
+    position: absolute;
+    left: 1275px;
+    top: 45px;
+}
+
+.logosb {
+    position: absolute;
+
+    left: 100px;
+    top: 30px;
+}
+
+.backcontainer {
+    position: absolute;
+    left: 0;
+    top: 1075px;
+    color: #EFEEE5;
+}
+
+.flex-container {
+    display: flex;
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 0;
+    top: 1075px;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.container {
+    display: flex;
+    /* or inline-flex */
+}
